@@ -1,0 +1,14 @@
+.left_menu {
+    position: fixed;
+    height: 100vh;
+
+}
+
+.content {
+    position: fixed;
+    height: 100vh;
+}
+
+.left_menu a {
+    background-color: antiquewhite;
+}
